@@ -1,3 +1,3 @@
 # DataMadness
 
-See Jupyter notebook for description
+See Jupyter notebook (DataMadness.ipynb) for description
